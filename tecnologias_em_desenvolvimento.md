@@ -1,7 +1,7 @@
-#Tecnologias que estou aprendendo
+# Tecnologias que estou aprendendo
 
-##React
+## React
 
-##Material  UI
+## Material  UI
 
-##Typescript
+## Typescript
